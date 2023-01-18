@@ -18,8 +18,9 @@ I am Alvine, a Software Engineer and I love coding.
 I base my work in fullstack development of websites
 
 DEVELOPMENT STACK:
+
   i. Mobile application development: - Android(React Native,Python(Django)).              
- ii. Web Development: - HTML CSS, Markdown, JavaScript(React js, vanila javascrit).               
+ ii. Web Development: - HTML CSS, Markdown, JavaScript(React js, Node js, vanila javascrit).               
  ii. Backend Development: - Node Js,Python.               
 iii. Shell Scripting: - Bash programming.    
  iv. Databases: - MySQL, Postgres.            
