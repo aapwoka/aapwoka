@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Alvine, a Software Engineer and I love coding.
-I base my work in fullstack development of websites
+I base my work in fullstack development of websites and android applications.
 
 DEVELOPMENT STACK:
 
