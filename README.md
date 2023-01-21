@@ -20,9 +20,15 @@ I base my work in fullstack development of websites and android applications.
 DEVELOPMENT STACK:
 
   i. Mobile application development: - Android(React Native,Python(Django)).              
- ii. Web Development: - HTML CSS, Markdown, JavaScript(React js, Node js, vanila javascrit).               
+ ii. Web Development(frontend): - HTML CSS, Markdown, JavaScript(React js, Node js, vanila javascrit).               
  ii. Backend Development: - Node Js,Python.               
 iii. Shell Scripting: - Bash programming.    
  iv. Databases: - MySQL, Postgres.            
   v. UX/UI Design: - Adobe XD, Figma.             
  vi. Operating Systems: - Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
+ 
+CODING LANGUAGES:
+Python(Django)
+Javascript(React js, Node js, React native)
+Ruby on Rails
+HTML,CSS
