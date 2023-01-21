@@ -31,4 +31,5 @@ CODING LANGUAGES:
 Python(Django)
 Javascript(React js, Node js, React native)
 Ruby on Rails
+Typescript
 HTML,CSS
