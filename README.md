@@ -28,8 +28,11 @@ iii. Shell Scripting: - Bash programming.
  vi. Operating Systems: - Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
  
 CODING LANGUAGES:
+
 Python(Django)
 Javascript(React js, Node js, React native)
 Ruby on Rails
 Typescript
 HTML,CSS
+
+ 💬 Ask me about Future Technological advancements.
