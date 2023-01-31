@@ -20,7 +20,7 @@ I base my work in fullstack development of websites and android applications.
 DEVELOPMENT STACK:
 
   i. Mobile application development: - Android(React Native,Python(Django)).              
- ii. Web Development(frontend): - HTML CSS, Markdown, JavaScript(React js, Node js, vanila javascrit).               
+ ii. Web Development(frontend): - HTML CSS, Markdown, JavaScript(React js).               
  ii. Backend Development: - Node Js,Python.               
 iii. Shell Scripting: - Bash programming.    
  iv. Databases: - MySQL, Postgres.            
