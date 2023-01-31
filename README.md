@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Alvine, a Software Engineer and I love coding.
-I base my work in fullstack development of websites and android applications.
+
+LINE OF WORK:
+Fullstack web development,
+Android Application development,
+Artificial Intelligence.
+
 
 DEVELOPMENT STACK:
 
