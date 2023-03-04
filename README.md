@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 I am Alvine, a Software Engineer and I love coding.
 
-LINE OF WORK:
+LINE OF WORK :
 
 Fullstack web development|
 Android Application development|
 Artificial Intelligence.
 
 
-DEVELOPMENT STACK:
+DEVELOPMENT STACK :
 
   i. Mobile application development: - Android(React Native,Python(Django)).              
  ii. Web Development(frontend): - HTML CSS, Markdown, JavaScript(React js).               
@@ -33,7 +33,7 @@ iii. Shell Scripting: - Bash programming.
   v. UX/UI Design: - Adobe XD, Figma.             
  vi. Operating Systems:- Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
  
-CODING LANGUAGES:
+CODING LANGUAGES :
 
 Python(Django)
 Javascript(React js, Node js, React native)
