@@ -1,5 +1,5 @@
 ### 
-Hithere 👋
+Hi there 👋
 
 <!--
 **aapwoka/aapwoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
