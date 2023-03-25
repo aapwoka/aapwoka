@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 I am Alvine, a Software Engineer and I love coding.
 
-LINE OF WORK :
+LINE OF WORK 
 
 Fullstack web development|
 Android Application development|
