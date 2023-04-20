@@ -37,7 +37,7 @@ iii. Shell Scripting: - Bash programming.
 CODING LANGUAGES :
 
 Python(Django)
-Javascript(React js, Node js, React native)
+Javascript(React.js, Node.js, React native)
 Ruby on Rails
 Typescript
 HTML,CSS
