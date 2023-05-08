@@ -28,7 +28,7 @@ DEVELOPMENT STACK :
 
   i. Mobile application development: - Android(React Native,Python(Django)).              
  ii. Web Development(frontend): - HTML CSS, Markdown, JavaScript(React js).               
-     Backend Development: - Node Js,Python, Php, C#, C++.               
+     Backend Development: - Node Js, Ruby on Rails, Python, Php, C#, C++.               
 iii. Shell Scripting: - Bash programming.    
  iv. Databases: - MySQL, Postgres.            
   v. UX/UI Design: - Adobe XD, Figma.             
