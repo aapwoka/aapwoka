@@ -30,7 +30,7 @@ DEVELOPMENT STACK :
  ii. Web Development(frontend): - HTML CSS, Markdown, JavaScript(React js).               
      Backend Development: - Node Js, Ruby on Rails, Python, Php, C#, C++.               
 iii. Shell Scripting: - Bash programming.    
- iv. Databases: - MySQL, Postgres.            
+ iv. Databases: - MySQL, Postgres, Firebase.            
   v. UX/UI Design: - Adobe XD, Figma.             
  vi. Operating Systems:- Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
  
