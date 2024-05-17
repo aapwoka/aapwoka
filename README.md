@@ -40,6 +40,7 @@ Python(Django)
 Javascript(React.js, Node.js, React native)
 C++
 Ruby on Rails
+Go
 Typescript
 HTML,CSS
 
