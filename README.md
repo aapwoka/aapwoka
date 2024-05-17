@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-I am Alvine, a Software Engineer and I love coding.
+I am Alvine, a Software Developer and I love coding.
 
 LINE OF WORK :
 
@@ -30,7 +30,7 @@ DEVELOPMENT STACK :
  ii. Web Development(frontend): - HTML CSS, Markdown, JavaScript(React js).               
      Backend Development: - Node Js, Ruby on Rails, Python, Php, C#, C++.               
 iii. Shell Scripting: - Bash programming.    
- iv. Databases: - MySQL, Postgres, Firebase.            
+ iv. Databases: - MySQL, PostgreSQL, Firebase.            
   v. UX/UI Design: - Adobe XD, Figma.             
  vi. Operating Systems:- Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
  
@@ -38,6 +38,7 @@ CODING LANGUAGES :
 
 Python(Django)
 Javascript(React.js, Node.js, React native)
+C++
 Ruby on Rails
 Typescript
 HTML,CSS
