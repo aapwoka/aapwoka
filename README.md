@@ -20,7 +20,7 @@ I am Alvine, a Software Developer and I love coding.
 LINE OF WORK :
 
 Fullstack web development|
-Android Application development|
+Mobile Application development|
 Artificial Intelligence.
 
 
@@ -37,7 +37,9 @@ iii. Shell Scripting: - Bash programming.
 CODING LANGUAGES :
 
 Python(Django)
-Javascript(React.js, Node.js, React native)
+React.js
+Node.js
+React Native
 C++
 Ruby on Rails
 Go
