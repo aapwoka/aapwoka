@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-I am Alvine, a Software Developer and I love coding.
+My name is Alvine Apwoka, a Software Developer and I love coding.
 
 LINE OF WORK :
 
