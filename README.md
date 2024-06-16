@@ -19,10 +19,11 @@ My name is Alvine Apwoka, a Software Developer and enthusiast.
 
 LINE OF WORK :
 
-Fullstack web development|
-Mobile Application development|
-Artificial Intelligence.
-
+DevOps|
+Cyber Security|
+Artificial Intelligence|
+Internet of Things|
+Networking
 
 DEVELOPMENT STACK :
 
