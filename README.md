@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-My name is Alvine Apwoka, a Software Developer and enthusiast.
+My name is Alvine Apwoka, a Software Developer.
 
 LINE OF WORK :
 
