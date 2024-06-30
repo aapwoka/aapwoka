@@ -20,6 +20,7 @@ My name is Alvine Apwoka, a Software Developer.
 LINE OF WORK :
 
 DevOps |
+Full-stack web development |
 Cyber Security |
 Artificial Intelligence |
 Internet of Things |
@@ -28,8 +29,8 @@ Networking
 DEVELOPMENT STACK :
 
   i. Mobile application development: - Android(React Native,Python).              
- ii. Web Development - React js            
-     Backend Development: - Node.js, Ruby on Rails, Python, Php, C#, C++, Golang.               
+ ii. Web Development(frontend) - React js            
+     Web Development(backend) - Node.js, Java(spring boot), Ruby on Rails, Python, C++, Golang.               
 iii. Shell Scripting: - Bash programming.    
  iv. Databases: - MySQL, PostgreSQL, MongoDB, Firebase.            
   v. UX/UI Design: - Adobe XD, Figma.             
