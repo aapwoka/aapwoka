@@ -28,7 +28,7 @@ Networking
 DEVELOPMENT STACK :
 
   i. Mobile application development: - Android(React Native,Python).              
- ii. Web Development(frontend): - HTML CSS, Markdown, JavaScript(React js).               
+ ii. Web Development - React js            
      Backend Development: - Node.js, Ruby on Rails, Python, Php, C#, C++, Golang.               
 iii. Shell Scripting: - Bash programming.    
  iv. Databases: - MySQL, PostgreSQL, MongoDB, Firebase.            
