@@ -1,20 +1,6 @@
 ### 
 Hi there 👋
 
-<!--
-**aapwoka/aapwoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
 My name is Alvine Apwoka, a Software Developer.
 
 LINE OF WORK :
@@ -48,6 +34,9 @@ Golang
 Typescript
 Java
 HTML,CSS
+
+- 🔭 I’m currently working on a job listing website. Coding using java and React js.
+- 🌱 I’m currently learning machine learning and IOT with Python. 
 
  
  📫 How to reach me: apwokaalvine062@gmail.com
