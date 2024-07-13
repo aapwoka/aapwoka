@@ -5,8 +5,8 @@ My name is Alvine Apwoka, a Software Developer.
 
 LINE OF WORK :
 
-DevOps |
 Full-stack web development |
+DevOps |
 Cyber Security |
 Artificial Intelligence |
 Internet of Things |
