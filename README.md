@@ -24,18 +24,18 @@ iii. Shell Scripting: - Bash programming.
  
 CODING LANGUAGES :
 
-Python
-React.js
-Node.js
-React Native
-C++
-Ruby on Rails
-Golang
-Typescript
-Java
+Python |
+React.js |
+Node.js |
+React Native |
+C++ |
+Ruby on Rails |
+Golang |
+Typescript |
+Java |
 HTML,CSS
 
-- 🔭 I’m currently working on a job listing website. Coding using java and React js.
+- 🔭 I’m currently working on several projects including a job listing website. Coding using java and React js.
 - 🌱 I’m currently learning machine learning and IOT with Python. 
 
  
