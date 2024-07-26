@@ -1,7 +1,7 @@
 ### 
 Hi there 👋
 
-My name is Alvine Apwoka. I have specialized in Software Development and have extensive knowledge in DevOps.
+My name is Alvine Apwoka. I have specialized in Software Development and DevOps.
 
 LINE OF WORK :
 
