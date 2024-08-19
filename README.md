@@ -1,5 +1,5 @@
 ### 
-Hi there 👋
+Hello there 👋
 
 My name is Alvine Apwoka. I have specialized in Software Development and DevOps.
 
