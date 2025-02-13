@@ -1,12 +1,12 @@
 ### 
 Hello there 👋
 
-My name is Alvine Apwoka. I have specialized in Software Development and specifically DevOps.
+My name is Alvine Apwoka. I have specialized in full stack Software Development.
 
 LINE OF WORK :
 
-Full-stack web development |
 DevOps |
+Cloud Computing |
 Cyber Security |
 Artificial Intelligence |
 Internet of Things |
