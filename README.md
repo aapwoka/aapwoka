@@ -15,7 +15,7 @@ Networking
 DEVELOPMENT STACK :
 
   i. Mobile application development: - Android(React Native,Python).              
- ii. Web Development(frontend) - React js            
+ ii. Web Development(frontend) - React js, Vue.js            
      Web Development(backend) - Node.js, Java(spring boot), Ruby on Rails, Python, C++, Golang.               
 iii. Shell Scripting: - Bash programming.    
  iv. Databases: - MySQL, PostgreSQL, MongoDB, Firebase.            
@@ -35,7 +35,7 @@ Typescript |
 Java |
 HTML,CSS
 
-- 🔭 I’m currently working on several projects including a job listing website. Coding using java and React js.
+- 🔭 I’m currently working on several projects including a job listing website. Coding using MERN stack.
 - 🌱 I’m currently learning machine learning and IOT with Python. 
 
  
