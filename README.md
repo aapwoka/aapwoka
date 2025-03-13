@@ -14,13 +14,12 @@ Networking
 
 DEVELOPMENT STACK :
 
-  i. Mobile application development: - Android(React Native,Python).              
- ii. Web Development(frontend) - React js, Vue.js            
-     Web Development(backend) - Node.js, Java(spring boot), Ruby on Rails, Python, C++, Golang.               
-iii. Shell Scripting: - Bash programming.    
- iv. Databases: - MySQL, PostgreSQL, MongoDB, Firebase.            
-  v. UX/UI Design: - Adobe XD, Figma.             
- vi. Operating Systems:- Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
+ i. Web Development(frontend) - React js, Vue.js            
+     Web Development(backend) - Node.js, Java(spring boot), Ruby on Rails, Golang.               
+ii. Shell Scripting: - Bash programming.    
+ iii. Databases: - MySQL, PostgreSQL, MongoDB, Firebase.            
+  iv. UX/UI Design: - Adobe XD, Figma.             
+ v. Operating Systems:- Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
  
 CODING LANGUAGES :
 
