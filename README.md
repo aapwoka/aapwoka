@@ -1,41 +1,58 @@
-### 
-Hello there 👋
+# 👋 Hi there, I'm Alvine Apwoka
 
-My name is Alvine Apwoka. I have specialized in full stack Software Development.
+🎯 **Full-Stack Software Developer** | 💻 DevOps Enthusiast | ☁️ Cloud & Cybersecurity Learner  
+Based in Kenya 🇰🇪 | Passionate about building scalable apps and learning cutting-edge tech.
 
-LINE OF WORK :
+---
 
-DevOps |
-Cloud Computing |
-Cyber Security |
-Artificial Intelligence |
-Internet of Things |
-Networking
+## 🚀 About Me
 
-DEVELOPMENT STACK :
+I'm a highly adaptable IT professional with a strong foundation in **software development, DevOps, cybersecurity, and cloud computing**. I love solving real-world problems using code and enjoy contributing to both frontend and backend projects.
 
- i. Web Development(frontend) - React js, Vue.js            
-     Web Development(backend) - Node.js, Java(spring boot), Ruby on Rails, Golang.               
-ii. Shell Scripting: - Bash programming.    
- iii. Databases: - MySQL, PostgreSQL, MongoDB, Firebase.            
-  iv. UX/UI Design: - Adobe XD, Figma.             
- v. Operating Systems:- Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
- 
-CODING LANGUAGES :
+I'm currently:
+- 🔧 Building a **job listing platform** using the **MERN stack**
+- 📚 Learning **Machine Learning** and **IoT** with Python
+- 🛠️ Exploring **DevOps tools** and **cloud platforms** (AWS, GCP)
 
-Python |
-React.js |
-Node.js |
-React Native |
-C++ |
-Ruby on Rails |
-Golang |
-Typescript |
-Java |
-HTML,CSS
+---
 
-- 🔭 I’m currently working on several projects including a job listing website. Coding using MERN stack.
-- 🌱 I’m currently learning machine learning and IOT with Python. 
+## 🧰 Tech Stack
 
- 
- 📫 How to reach me: apwokaalvine062@gmail.com
+### 💻 Frontend
+- React.js, Vue.js, HTML5, CSS3, Tailwind, JavaScript, TypeScript
+
+### 🔙 Backend
+- Node.js, Spring Boot (Java), Golang, Ruby on Rails
+
+### 🗄️ Databases
+- Firebase, PostgreSQL, MySQL, MongoDB
+
+### 🧪 DevOps & Scripting
+- Bash, Git, CI/CD, Docker (learning)
+
+### 🎨 UI/UX Design
+- Figma, Adobe XD
+
+### 🐧 Operating Systems
+- Arch Linux (primary), Pop!_OS, Kali Linux, Fedora, Debian, Ubuntu, Windows
+
+---
+
+## 🧠 Languages I Code In
+
+Python • JavaScript • TypeScript • Java • C++ • Go • Ruby • HTML/CSS
+
+## 📂 Featured Projects
+- 💼 **Job Listing Web App** – MERN Stack | Firebase Auth | Admin Dashboard *(in progress)*
+- 📊 **Inventory Dashboard** – React + Firebase + CRUD logic
+- 📲 **E-commerce App (Mobile)** – React Native with Firebase backend
+
+➡️ Check my pinned repositories for more!
+
+## 📫 Let's Connect
+- Email: [apwokaalvine062@gmail.com](mailto:apwokaalvine062@gmail.com)
+- LinkedIn: [linkedin.com/in/alvine-apwoka](#) *(replace with actual link)*
+- GitHub: [@aapwoka](https://github.com/aapwoka)
+
+> _"Code is more than syntax—it's a tool for change."_  
+— Alvine Apwoka
