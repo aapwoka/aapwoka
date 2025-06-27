@@ -47,11 +47,11 @@ Python • JavaScript • TypeScript • Java • C++ • Go • Ruby • HTML/C
 - 📊 **Inventory Dashboard** – React + Firebase + CRUD logic
 - 📲 **E-commerce App (Mobile)** – React Native with Firebase backend
 
-➡️ Check my pinned repositories for more!
+➡️ Check my repositories for more!
 
 ## 📫 Let's Connect
 - Email: [apwokaalvine062@gmail.com](mailto:apwokaalvine062@gmail.com)
-- LinkedIn: [linkedin.com/in/alvine-apwoka](#) *(replace with actual link)*
+- LinkedIn: https://www.linkedin.com/in/alvine-apwoka-9668a0362
 - GitHub: [@aapwoka](https://github.com/aapwoka)
 
 > _"Code is more than syntax—it's a tool for change."_  
