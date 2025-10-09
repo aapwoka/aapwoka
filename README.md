@@ -22,7 +22,7 @@ I'm currently:
 - React.js, Vue.js, HTML5, CSS3, Tailwind, JavaScript, TypeScript
 
 ### 🔙 Backend
-- Node.js, Spring Boot (Java), Golang, Ruby on Rails
+- Node.js, Spring Boot (Java), Golang, Laravel
 
 ### 🗄️ Databases
 - Firebase, PostgreSQL, MySQL, MongoDB
