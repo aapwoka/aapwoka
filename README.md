@@ -13,6 +13,7 @@ I'm currently:
 - 🔧 Building a **job listing platform** using the **MERN stack**
 - 📚 Learning **Machine Learning** and **IoT** with Python
 - 🛠️ Exploring **DevOps tools** and **cloud platforms** (AWS, GCP)
+- Building a customer support company
 
 ---
 
