@@ -9,12 +9,6 @@ Based in Kenya 🇰🇪 | Passionate about building scalable apps and learning c
 
 I'm a highly adaptable IT professional with a strong foundation in **software development and passion for DevOps, cybersecurity, and cloud computing**. I love solving real-world problems using code and enjoy contributing to both frontend and backend projects.
 
-I'm currently:
-- 🔧 Building a **job listing platform** using the **MERN stack**
-- 📚 Learning **Machine Learning** and **IoT** with Python
-- 🛠️ Exploring **DevOps tools** and **cloud platforms** (AWS, GCP)
-- 🛠️ Building a customer support company
-
 ---
 
 ## 🧰 Tech Stack
