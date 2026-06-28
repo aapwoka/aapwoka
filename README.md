@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Alvine Apwoka
 
-🎯 **Full-Stack Software Developer** | 💻 DevOps Enthusiast | ☁️ Cloud & Cybersecurity Learner  
+🎯 **Full-Stack Software Developer** | 💻 DevOps, ☁️ Cloud & Cybersecurity Learner  
 Based in Kenya 🇰🇪 | Passionate about building scalable apps and learning cutting-edge tech.
 
 ---
