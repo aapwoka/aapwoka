@@ -37,17 +37,6 @@ I'm currently:
 ### 🐧 Operating Systems
 - Arch Linux (primary), Pop!_OS, Kali Linux, Fedora, Debian, Ubuntu, Windows
 
----
-
-## 🧠 Languages I Code In
-
-Python • JavaScript • TypeScript • Java • C++ • Go • Ruby • HTML/CSS
-
-## 📂 Featured Projects
-- 💼 **Job Listing Web App** – MERN Stack | Firebase Auth | Admin Dashboard *(in progress)*
-- 📊 **Inventory Dashboard** – React + Firebase + CRUD logic
-- 📲 **E-commerce App (Mobile)** – React Native with Firebase backend
-
 ➡️ Check my repositories for more!
 
 ## 📫 Let's Connect
