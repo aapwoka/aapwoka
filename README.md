@@ -35,7 +35,7 @@ I'm currently:
 - Figma, Adobe XD
 
 ### 🐧 Operating Systems
-- Arch Linux (primary), Pop!_OS, Kali Linux, Fedora, Debian, Ubuntu, Windows
+- Arch Linux, Pop!_OS, Kali Linux, Fedora, Debian, Ubuntu, Windows
 
 ➡️ Check my repositories for more!
 
